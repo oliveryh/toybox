@@ -1,0 +1,5 @@
+click
+tqdm
+itsdangerous
+requests
+sqlite-utils
