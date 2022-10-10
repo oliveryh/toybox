@@ -1,0 +1,11 @@
+jupyterlab==2.2.9
+ipykernel
+pandas==1.2.3
+fastparquet
+pandera==0.6.2
+ipytest
+ipywidgets>=7.5
+sklearn
+python-snappy
+fastparquet
+matplotlib
