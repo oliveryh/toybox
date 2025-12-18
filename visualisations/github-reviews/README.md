@@ -2,7 +2,7 @@
 
 A tool to generate visualisations of the number of reviews being sent between contributors of GitHub repos. The success rate (ratio of approvals against change requests), is also indicated by the colour of the edges between nodes.
 
-![Screenshot](https://github.com/oliveryh/toybox/blob/master/visualisations/github-reviews/screenshot.png)
+![Screenshot](https://github.com/oliveryh/toybox/blob/main/visualisations/github-reviews/screenshot.png)
 
 # Installation
 
